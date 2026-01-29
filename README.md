@@ -1,4 +1,4 @@
-# Weather-Forecast-System
+# Weather-Forecast-System (PRESS CODE WHEN VIEWING, PREVIEW SHOWS UP ODD AT THE BOTTOM WITH HTML SCRIPT)
 esp32c3 weather station
 
 
